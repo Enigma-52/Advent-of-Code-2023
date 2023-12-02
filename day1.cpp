@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int k=1;
+    int k=1000;
     int sum=0;
     for(int i=0;i<k;i++)
     {
